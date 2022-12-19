@@ -1,8 +1,9 @@
 # Financial Mathematical Models
-Popular models used in Financial Engineering and Computation textbook from Yuh-Dauh Lyuu.
+Popular models used in Financial Engineering and Computation textbook from Yuh-Dauh Lyuu. We will use Jupyter notebook for most concepts and patterns that are illustrated in this textbook 
 
 # 1. Stochastic Process and Brownian Motion
 #### * Stochastic Integrals
+      * Using stochastic integrals, let's model the Ornstein-Uhlenbeck process, Ito process, and Martingales.                                   
 #### * Geometric Brownian Motion
 #### * Brownian Motion Variants
 
