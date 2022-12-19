@@ -3,7 +3,7 @@ Popular models used in Financial Engineering and Computation textbook from Yuh-D
 
 # 1. Stochastic Process and Brownian Motion
 #### * Stochastic Integrals
-      * Using stochastic integrals, let's model the Ornstein-Uhlenbeck process, Ito process, and Martingales.                                   
+####   Using stochastic integrals, let's model the Ornstein-Uhlenbeck process, Ito process, and Martingales.                                   
 #### * Geometric Brownian Motion
 #### * Brownian Motion Variants
 
