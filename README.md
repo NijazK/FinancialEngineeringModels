@@ -1,5 +1,5 @@
 # Financial Mathematical Models
-Popular models used in Financial Engineering and Computation textbook from Yuh-Dauh Lyuu. We will use Jupyter notebook for most concepts and patterns that are illustrated in this textbook 
+Popular models used in Financial Engineering and Computation textbook from Yuh-Dauh Lyuu. We will use Jupyter notebook for most concepts and patterns that are illustrated in this textbook. In addition, QuantLib-Python and stochastic are dependincies within Pypi that will be utlized to show examples of popular models within financial mathematics.
 
 ## 1. Stochastic Process and Brownian Motion
 ###   1. Stochastic Integrals
