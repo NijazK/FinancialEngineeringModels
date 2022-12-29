@@ -22,11 +22,11 @@ Popular models used in Financial Engineering and Computation textbook from Yuh-D
 ###   5. Pricing Engines
 
 ## 2. Stochastic Calculus Models 
-###   1. Ornstein-Uhlenbeck Process
+###   1. Numerical Greeks for Options
 #####                                    
-###   2. Hybrid Vasicek Model
+###   2. Ornstein-Uhlenbeck for Options
 #####  
-###   3. 
+###   3. Hybrid-Vasicek Model
 #####    
 ###   4. 
 #####    
