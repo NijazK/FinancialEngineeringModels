@@ -20,3 +20,14 @@ Popular models used in Financial Engineering and Computation textbook from Yuh-D
 ###   4. Treasury Futures
 #####    
 ###   5. Pricing Engines
+
+## 2. Stochastic Calculus Models 
+###   1. Ornstein-Uhlenbeck Process
+#####                                    
+###   2. Hybrid Vasicek Model
+#####  
+###   3. 
+#####    
+###   4. 
+#####    
+###   5. 
