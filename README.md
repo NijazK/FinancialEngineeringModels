@@ -10,7 +10,7 @@ Popular models used in Financial Engineering and Computation textbook from Yuh-D
 #####    
 ###   4. rho Process
 
-## 2. Bonds
+## 2. Fixed Rate Models
 ###   1. Fixed Rate Bonds
 #####                                    
 ###   2. Callable Bonds
