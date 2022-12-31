@@ -4,9 +4,9 @@ Popular models used in Financial Engineering and Computation textbook from Yuh-D
 ## 1. Equity Options
 ###   1. [Heston Process](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Equity%20Options%20Models/HestonProcessEuroOption.ipynb)
 #####                                    
-###   2. European and American Options
+###   2. [Binomial Tree European Option](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Equity%20Options%20Models/BinomialTreeEuropeanOptions.ipynb)
 #####  
-###   3. Commodity Futures and Swaps
+###   3. [Black-Scholes European Option Modeling](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Equity%20Options%20Models/Black-ScholesEuropean.ipynb)
 #####    
 ###   4. rho Process
 
