@@ -8,7 +8,7 @@ Popular models used in Financial Engineering and Computation textbook from Yuh-D
 #####  
 ###   3. [Black-Scholes European Option Modeling](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Equity%20Options%20Models/Black-ScholesEuropean.ipynb)
 #####    
-###   4. rho Process
+###   4. [Black-Scholes Heston Process](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Equity%20Options%20Models/Black-ScholesHeston.ipynb)
 
 ## 2. Fixed Rate Models
 ###   1. Fixed Rate Bonds
