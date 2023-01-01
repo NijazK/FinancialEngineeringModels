@@ -22,11 +22,11 @@ Popular models used in Financial Engineering and Computation textbook from Yuh-D
 ###   5. Pricing Engines
 
 ## 2. [Stochastic Calculus Models](https://github.com/NijazK/FinancialEngineeringModels/tree/main/Stochastic%20Calculus%20and%20Brownian%20Motion)
-###   1. Numerical Greeks for Options
+###   1. [Numerical Greeks for Options](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Stochastic%20Calculus%20and%20Brownian%20Motion/GreekCalculations.ipynb)
 #####                                    
-###   2. Ornstein-Uhlenbeck for Options
+###   2. [Geometric Brownian Motion](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Stochastic%20Calculus%20and%20Brownian%20Motion/GeoBrownianSim.ipynb)
 #####  
-###   3. Hybrid-Vasicek Model
+###   3. [Monte Carlo Simulation using Random Numbers](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Stochastic%20Calculus%20and%20Brownian%20Motion/RandomNumberMonteCarlo.ipynb)
 #####    
 ###   4. 
 #####    
