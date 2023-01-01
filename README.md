@@ -18,6 +18,6 @@ Popular models used in Financial Engineering and Computation textbook from Yuh-D
 #####  
 ###   3. [Monte Carlo Simulation using Random Numbers](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Stochastic%20Calculus%20and%20Brownian%20Motion/RandomNumberMonteCarlo.ipynb)
 #####    
-###   4. 
+###   4. [Dynamic Hedging Techniques for Euro Options](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Stochastic%20Calculus%20and%20Brownian%20Motion/DefiningrhoProcess.ipynb)
 #####    
 ###   5. 
