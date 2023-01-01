@@ -10,16 +10,6 @@ Popular models used in Financial Engineering and Computation textbook from Yuh-D
 #####    
 ###   4. [Black-Scholes Heston Process](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Equity%20Options%20Models/Black-ScholesHeston.ipynb)
 
-## 2. [Fixed Rate Models]
-###   1. Fixed Rate Bonds
-#####                                    
-###   2. Callable Bonds
-#####  
-###   3. Floating Rates
-#####    
-###   4. Treasury Futures
-#####    
-###   5. Pricing Engines
 
 ## 2. [Stochastic Calculus Models](https://github.com/NijazK/FinancialEngineeringModels/tree/main/Stochastic%20Calculus%20and%20Brownian%20Motion)
 ###   1. [Numerical Greeks for Options](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Stochastic%20Calculus%20and%20Brownian%20Motion/GreekCalculations.ipynb)
