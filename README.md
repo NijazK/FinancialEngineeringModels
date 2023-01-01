@@ -1,7 +1,7 @@
 # Financial Mathematical Models
 Popular models used in Financial Engineering and Computation textbook from Yuh-Dauh Lyuu. We will use Jupyter notebook for most concepts and patterns that are illustrated in this textbook. In addition, QuantLib-Python and stochastic are dependincies that will be utlized to show examples of popular models within financial mathematics.
 
-## 1. [Equity Options](https://github.com/NijazK/FinancialEngineeringModels/tree/main/Equity%20Options%20Models)
+## 1. Equity Options
 ###   1. [Heston Process](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Equity%20Options%20Models/HestonProcessEuroOption.ipynb)
 #####                                    
 ###   2. [Binomial Tree European Option](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Equity%20Options%20Models/BinomialTreeEuropeanOptions.ipynb)
@@ -11,7 +11,7 @@ Popular models used in Financial Engineering and Computation textbook from Yuh-D
 ###   4. [Black-Scholes Heston Process](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Equity%20Options%20Models/Black-ScholesHeston.ipynb)
 
 
-## 2. [Stochastic Calculus Models](https://github.com/NijazK/FinancialEngineeringModels/tree/main/Stochastic%20Calculus%20and%20Brownian%20Motion)
+## 2. Stochastic Calculus Models
 ###   1. [Numerical Greeks for Options](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Stochastic%20Calculus%20and%20Brownian%20Motion/GreekCalculations.ipynb)
 #####                                    
 ###   2. [Geometric Brownian Motion](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Stochastic%20Calculus%20and%20Brownian%20Motion/GeoBrownianSim.ipynb)
