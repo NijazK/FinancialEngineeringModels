@@ -23,4 +23,5 @@ Popular models used in Financial Engineering and Computation textbook from Yuh-D
 ###   5. [Brownian Motions](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Stochastic%20Calculus%20and%20Brownian%20Motion/BrownianMotions.ipynb)
 #####
 ###   5. [Interest Rate using Hull-White & Monte Carlo]
+(https://github.com/NijazK/FinancialEngineeringModels/blob/main/Stochastic%20Calculus%20and%20Brownian%20Motion/Hull-WhiteMonteCarlo.ipynb)
 
