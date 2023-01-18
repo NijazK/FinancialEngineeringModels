@@ -24,3 +24,8 @@ Popular models used in Financial Engineering and Computation textbook from Yuh-D
 #####
 ###   5. [Interest Rate using Hull-White & Monte Carlo](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Stochastic%20Calculus%20and%20Brownian%20Motion/Hull-WhiteMonteCarlo.ipynb)
 
+## 3. Fixed Income Instruments
+###   1. [Fixed Rate Bond](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Fixed%20Income%20Instruments/FixedRateBonds.ipynb)
+#####
+###   2. [Callable Bonds](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Fixed%20Income%20Instruments/ModelingCallablebonds.ipynb)
+#####
