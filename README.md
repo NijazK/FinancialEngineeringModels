@@ -14,7 +14,7 @@ Popular models used in Financial Engineering and Computation textbook from Yuh-D
 #####
 ###   6. [European Options](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Equity%20Options%20Models/europeanoptions.py)
 #####
-###   7. [Commodity Futures Options](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Equity%20Options%20Models/europeanoptions.py)
+###   7. [Commodity Futures Options](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Equity%20Options%20Models/ValuingOptionsOnCommodities.ipynb)
 
 ## 2. Stochastic Calculus Models
 ###   1. [Numerical Greeks for Options](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Stochastic%20Calculus%20and%20Brownian%20Motion/GreekCalculations.ipynb)
