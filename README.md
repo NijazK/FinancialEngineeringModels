@@ -34,3 +34,5 @@ Popular models used in Financial Engineering and Computation textbook from Yuh-D
 #####
 ###   2. [Callable Bonds](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Fixed%20Income%20Instruments/ModelingCallablebonds.ipynb)
 #####
+###   2. [Yield Curve](https://github.com/NijazK/FinancialEngineeringModels/blob/main/Fixed%20Income%20Instruments/yieldcurve.ipynb)
+#####
